@@ -12,6 +12,8 @@ Take a look at the codes to see which classes used and extended which ones.
 # Connection Configuration 
 The dbconfig file contains all the codes that were used to configure the connections to the database. In this project, I used the PDO method to connect to the database. 
 
+
+
 This was not some very big project or anything. I just worked on and created one small part of a big project just to learn and understand the OOP(Object Oriented Programming) way of PHP well. 
 I do have a plan to build a full big project using OOP PHP in the near future. 
 
